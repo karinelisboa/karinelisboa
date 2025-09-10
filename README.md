@@ -1,4 +1,4 @@
-## Olá! Eu sou Karine Lisboa.
+## Olá! Meu nome é Karine Lisboa.
 
 Sou estudante de Engenharia de Computação na UFRJ, atualmente no terceiro ano da graduação. Tenho experiências práticas em projetos de desenvolvimento full-stack e consultoria tecnológica, tanto em ambientes acadêmicos quanto profissionais.
 
